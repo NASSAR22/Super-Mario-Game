@@ -21,11 +21,6 @@ OR
 1.  Kill enemies by jumping on them.
 2.  Player at level 0 (starting level) can't destroy Walls. You have to PowerUp your hero.
 3.  Max Mario level is 2 - white uniform.
-4.  Player die if he would be at level 0 and he would got hit by enemy.
-
-## Screens from the game
-<img src="/screenshots/Screen1.PNG" width="550">  
-<img src="/screenshots/Screen2.PNG" width="550">  
-<img src="/screenshots/Screen3.PNG" width="550">  
+4.  Player die if he would be at level 0 and he would got hit by enemy
 
 ### Good luck and Have Fun ;)
